@@ -56,7 +56,7 @@
 		pointer-events: none;
 
 		@media (max-width: 640px) {
-			object-position: center top;
+			object-position: center calc(-15px);
 		}
 	}
 </style>
