@@ -8,7 +8,7 @@
 
 	const backgrounds: Record<string, string> = {
 		'/': homeImage,
-		'/about': aboutImage,
+		'/about': aboutImage
 	};
 
 	$: backgroundImage = backgrounds[data.url.pathname];
@@ -54,5 +54,9 @@
 		object-fit: cover;
 		object-position: right top;
 		pointer-events: none;
+
+		@media (max-width: 640px) {
+			object-position: center top;
+		}
 	}
 </style>

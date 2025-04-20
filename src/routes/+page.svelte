@@ -1,8 +1,3 @@
-<script lang="ts">
-	import BackgroundImage from '$lib/components/BackgroundImage.svelte';
-	import backgroundImage from '$lib/images/background-eli.png';
-</script>
-
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="The Nomadic Archive" />
