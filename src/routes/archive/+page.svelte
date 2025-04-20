@@ -1,12 +1,12 @@
 <svelte:head>
-	<title>The Archives</title>
-	<meta name="description" content="The Nomadic Archives" />
+	<title>The Archive</title>
+	<meta name="description" content="The Archive" />
 </svelte:head>
 
 <div class="background-fixed-layer"></div>
 
 <main>
-	<h1>📂 THE ARCHIVES</h1>
+	<h1>📂 THE ARCHIVE</h1>
 	<p class="pb-8 text-center">It's all in here. Or it will be. Or maybe it never was.</p>
 	<hr />
 

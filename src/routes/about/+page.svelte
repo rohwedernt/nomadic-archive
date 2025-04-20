@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About the Archives</title>
+	<title>About</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
 
@@ -8,7 +8,7 @@
 		<h1 class="mb-4 text-2xl">🎛️ About This Site</h1>
 
 		<p class="pb-2 text-sm">
-			<b>Welcome to the Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly
+			<b>Welcome to The Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly
 			recorded live sets, show-poster masterpieces, and whatever other fragments we thought had been
 			lost to the void.
 		</p>

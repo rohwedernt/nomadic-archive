@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>The Nomadic Archives</title>
-	<meta name="description" content="The Nomadic Archive" />
+	<meta name="description" content="The Nomadic Archives" />
 </svelte:head>
 
 <!-- <BackgroundImage src={backgroundImage} /> -->
