@@ -39,42 +39,43 @@
 	<h2>📹 VIDEOS</h2>
 	<ul>
 		<li>
-			Live @ Boone Saloon— <a href="https://youtu.be/2r4FjsM7Tmc?feature=shared"
+			Live @ Boone Saloon (12/4/15)— <a href="https://youtu.be/2r4FjsM7Tmc?feature=shared"
 				>Queen Anne's Revenge</a
 			>
 		</li>
 		<li>
-			Live @ Boone Saloon— <a href="https://youtu.be/MejDBl_aT9s?feature=shared">Speak Like Me</a>
+			Live @ Boone Saloon (12/4/15)— <a href="https://youtu.be/MejDBl_aT9s?feature=shared">Speak Like Me</a>
 		</li>
 		<li>
-			Live @ Boone Saloon— <a href="https://youtu.be/HsSEEKEsAe0?feature=shared">Daft Mother</a>
+			Live @ Boone Saloon (12/4/15)— <a href="https://youtu.be/HsSEEKEsAe0?feature=shared">Daft Mother</a>
 		</li>
 		<li>
-			Live @ Boone Saloon— <a href="https://youtu.be/9-zu2aJ6urs?feature=shared"
+			Live @ Boone Saloon (12/4/15) — <a href="https://youtu.be/9-zu2aJ6urs?feature=shared"
 				>Victorian Steam Punk</a
 			>
 		</li>
 		<li>
-			Live @ Boone Saloon— <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">Fight Right</a>
+			Live @ Boone Saloon (12/4/15)— <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">Fight Right</a>
 		</li>
+
 		<li>
-			Live @ Asheville Music Hall — <a href="https://youtu.be/cggYy6tAwKM?feature=shared"
+			Live @ Boone in Blossom (4/30/15) — <a href="https://youtu.be/SJ-65jw5E3A?feature=shared">Daft Mother</a
+			>
+		</li>
+		<li>2014 Promo Video — <a href="https://youtu.be/a-a6YFkAs_o?feature=shared">Supra Luna</a></li>
+		<li>
+			Live @ Asheville Music Hall (5/24/14) — <a href="https://youtu.be/cggYy6tAwKM?feature=shared"
 				>Full Show</a
 			>
 		</li>
 		<li>
-			Live @ Timo's House — <a href="https://www.youtube.com/watch?v=ZcaaW0pHme0">Daft Mother</a>
+			Live @ Timo's House (4/26/14) — <a href="https://www.youtube.com/watch?v=ZcaaW0pHme0">Daft Mother</a>
 		</li>
 		<li>
-			Live @ Boone in Blossom — <a href="https://youtu.be/SJ-65jw5E3A?feature=shared">Daft Mother</a
-			>
+			Live @ The One Stop (12/8/12) — <a href="https://youtu.be/lqJbZSQ8yqg?feature=shared">Cable Jubilee</a>
 		</li>
-		<li>2014 Promo Video — <a href="https://youtu.be/a-a6YFkAs_o?feature=shared">Supra Luna</a></li>
-		<li>Live @ Legends — <a href="https://youtu.be/Jznac7Huapg?feature=shared">Watch</a></li>
-		<li>Live @ Legends — <a href="https://youtu.be/hCvWC-QvRIw?feature=shared">Sleepyhead</a></li>
-		<li>
-			Live @ The One Stop — <a href="https://youtu.be/lqJbZSQ8yqg?feature=shared">Cable Jubilee</a>
-		</li>
+		<li>Live @ Legends (1/22/11) — <a href="https://youtu.be/Jznac7Huapg?feature=shared">Watch</a></li>
+		<li>Live @ Legends (1/22/11) — <a href="https://youtu.be/hCvWC-QvRIw?feature=shared">Sleepyhead</a></li>
 	</ul>
 
 	<h2>🎵 SONG CATALOG</h2>
@@ -217,9 +218,52 @@
 	</ul>
 
 	<h2>🧳 RIGS & GEAR</h2>
-	<ul>
+	<h3>NATE</h3>
+	<h4>Guitars</h4>
+	<ul class="list-disc">
+		<li>2004 Fender American Deluxe Stratocaster</li>
+		<li>2001 PRS CE-22</li>
+	</ul>
+	<h4>Amps</h4>
+	<ul class="list-disc">
+		<li>Fender Twin Reverb ("The '94 Twin Amp")</li>
+		<li>PRS 2-Channel "H"</li>
+		<li>Mesa Boogie Mark Five 35</li>
+		<li>Fuchs BlackJack 21 MKII</li>
+		<li>Fender '68 Custom Deluxe Reverb Reissue</li>
+	</ul>
+	<h4>Effects</h4>
+	<ul class="list-disc">
 		<li>(coming soon)</li>
 	</ul>
+	<h3>ELI</h3>
+	<h4>Bass</h4>
+	<ul class="list-disc">
+		<li>(coming soon)</li>
+	</ul>
+	<h4>Amps</h4>
+	<ul class="list-disc">
+		<li>(coming soon)</li>
+	</ul>
+	<h4>Effects</h4>
+	<ul class="list-disc">
+		<li>(coming soon)</li>
+	</ul>
+	<h3>GREG</h3>
+	<h4>Keyboards</h4>
+	<ul class="list-disc">
+		<li>Nord Electro 2</li>
+		<li>Moog Sub 37</li>
+		<li>Korg MicroKORG</li>
+		<li>Akai MPK249</li>
+		<li>Akai APC40</li>
+		<li>M-Audio Axiom 49</li>
+	</ul>
+	<h3>KEVIN</h3>
+	<ul class="list-disc">
+		<li>(coming soon)</li>
+	</ul>
+
 
 	<h2>🛠️ ARCHIVE TODO</h2>
 	<ul>
