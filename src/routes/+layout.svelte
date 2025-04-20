@@ -2,23 +2,22 @@
 	import '../app.css';
 	import Header from './Header.svelte';
 	import homeImage from '$lib/images/background-eli.png';
-	import aboutImage from '$lib/images/background-greg.jpg';
-	import archivesImage from '$lib/images/background-all.jpg';
-	import defaultImage from '$lib/images/background-eli.png';
+	import aboutImage from '$lib/images/background-all.jpg';
 
 	export let data: { url: URL };
 
 	const backgrounds: Record<string, string> = {
 		'/': homeImage,
 		'/about': aboutImage,
-		'/archives': archivesImage
 	};
 
-	$: backgroundImage = backgrounds[data.url.pathname] ?? defaultImage;
+	$: backgroundImage = backgrounds[data.url.pathname];
 </script>
 
 <div class="app">
-	<img class="fullscreen-bg" src={backgroundImage} alt="Background" />
+	{#if backgroundImage}
+		<img class="fullscreen-bg" src={backgroundImage} alt="Background" />
+	{/if}
 
 	<Header />
 
@@ -53,7 +52,7 @@
 		height: 100vh;
 		z-index: -1;
 		object-fit: cover;
-		object-position: left top;
+		object-position: right top;
 		pointer-events: none;
 	}
 </style>

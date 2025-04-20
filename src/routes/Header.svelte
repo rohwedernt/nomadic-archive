@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import title from '$lib/images/title.png';
+	import titleMobile from '$lib/images/title-mobile.png';
+	import titleTablet from '$lib/images/title-tablet.png';
+	import titleFull from '$lib/images/title-full.png';
 </script>
 
 <header>
@@ -24,7 +26,12 @@
 		</svg>
 	</nav>
 
-	<img src={title} alt="Nomadic Title" class="title-banner" />
+	<!-- Responsive title image -->
+	<picture class="title-banner">
+		<source srcset={titleFull} media="(min-width: 800px)" />
+		<source srcset={titleTablet} media="(min-width: 640px)" />
+		<img src={titleMobile} alt="Nomadic Title" />
+	</picture>
 </header>
 
 <style>
@@ -38,10 +45,16 @@
 		top: 0;
 		left: 0;
 		width: 100vw;
-		height: auto;
+		display: block;
+		z-index: -1;
+	}
 
-		@media (min-width: 750px) {
-			width: 50vw;
+	.title-banner img {
+		width: 90%;
+		height: auto;
+		display: block;
+		@media (max-width: 480px) {
+			padding-top: 1rem;
 		}
 	}
 
@@ -107,6 +120,6 @@
 	}
 
 	a:hover {
-		color: var(--color-theme-1);
+		color: #ffbd59;
 	}
 </style>

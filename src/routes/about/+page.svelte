@@ -5,7 +5,7 @@
 
 <div class="paper-panel">
 	<div class="paper-content">
-		<h1 class="text-2xl mb-4">🎸 About This Site 🎸</h1>
+		<h1 class="text-2xl mb-4">🎛️ About This Site</h1>
 
 		<p class="pb-2 text-sm">
 			<b>Welcome to the Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly recorded live sets, show-poster masterpieces, and whatever other fragments we thought had been lost to the void.

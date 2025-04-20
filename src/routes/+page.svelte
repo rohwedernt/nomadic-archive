@@ -1,6 +1,6 @@
 <script lang="ts">
-		import BackgroundImage from '$lib/components/BackgroundImage.svelte';
-		import backgroundImage from '$lib/images/background-eli.png';
+	import BackgroundImage from '$lib/components/BackgroundImage.svelte';
+	import backgroundImage from '$lib/images/background-eli.png';
 </script>
 
 <svelte:head>
@@ -8,43 +8,69 @@
 	<meta name="description" content="The Nomadic Archive" />
 </svelte:head>
 
-<BackgroundImage src={backgroundImage} />
+<!-- <BackgroundImage src={backgroundImage} /> -->
 
 <main>
 	<div class="paper-panel">
 		<div class="paper-content">
-			<h1 class="text-2xl mb-4">🔎 Featured Finds 🔎</h1>
-	
+			<h1 class="mb-4 text-2xl">🔎 Featured Finds</h1>
+
 			<ul class="finds-list">
-				<li class="text-lg pb-1">– 📸 This is where we'll 
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">link</a>
+				<li class="pb-1">
+					– 🔊 This spicy
+					<a
+						href="https://archive.org/details/nomadic2014-08-29/nomadic2014-08-2903.flac"
+						target="_blank"
+						rel="noopener noreferrer">Triple Wide</a
+					>
+					from Mantrabash '14 ft. Evan Bost or the INCREDIBLY fire
+					<a
+						href="https://archive.org/details/nomadic2014-08-29/nomadic2014-08-2906.flac"
+						target="_blank"
+						rel="noopener noreferrer">QAR</a
+					>
+					from that show or the only surviving recording of
+					<a
+						href="https://archive.org/details/nomadic2014-08-29/nomadic2014-08-2904.flac"
+						target="_blank"
+						rel="noopener noreferrer">Ghosts</a
+					>
+					(actually just go listen to that
+					<a
+						href="https://archive.org/details/nomadic2014-08-29"
+						target="_blank"
+						rel="noopener noreferrer">whole set</a
+					>)
 				</li>
-				<li class="text-lg pb-1">– 🎶 Some of the cool
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">things</a>
+				<li class="pb-1">
+					– 🔗 The super old Wix site
+					<a href="rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer"
+						>Wix site</a
+					> which is somehow still live
 				</li>
-				<li class="text-lg pb-1">– 🔊 We find as we
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">search for</a>
+				<li class="pb-1">
+					– 📹 The vibes in this section of
+					<a
+						href="https://youtu.be/SJ-65jw5E3A?feature=shared"
+						target="_blank"
+						rel="noopener noreferrer">Daft Mother</a
+					> from Boone in Blossom '15
 				</li>
-				<li class="text-lg pb-1">– 🎶 
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">More and more</a> Nomadic gems
+				<li class="pb-1">
+					– 📹 What appears to be the only surviving audio of
+					<a
+						href="https://youtu.be/lqJbZSQ8yqg?feature=shared"
+						target="_blank"
+						rel="noopener noreferrer">Cable Jubilee</a
+					>
 				</li>
-				<li class="text-lg pb-1">– 📹 To highlight
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">them</a>
-				</li>
-				<li class="text-lg pb-1">– 📸 On the home page here for  
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">viewing</a>
-				</li>
-				<li class="text-lg pb-1">– 📸 And for now I'm just using this test
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">text</a>
-				</li>
-				<li class="text-lg pb-1">– 🔊 To see how this will look once there is   
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">content</a>
-				</li>
-				<li class="text-lg pb-1">– 🔊 This is also a test
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">link</a>
-				</li>
-				<li class="text-lg pb-1">– 📹 And actually I need one  
-					<a href="https://getemoji.com/" target="_blank" rel="noopener noreferrer">more here</a>
+				<li class="pb-1">
+					– 🔊 This
+					<a
+						href="https://archive.org/details/nm2014-02-15.nm2014-02-15sbd/03TripleWide.flac"
+						target="_blank"
+						rel="noopener noreferrer">Triple Wide</a
+					> from Martin's Downtown in Roanoke ft. Keith Allen
 				</li>
 			</ul>
 		</div>
@@ -64,7 +90,7 @@
 		border-top-left-radius: 1rem;
 		border-top-right-radius: 1rem;
 		box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.15);
-		padding: 1.5rem;
+		padding: 2rem;
 		overflow-y: auto;
 		z-index: 2;
 	}
@@ -76,20 +102,20 @@
 	}
 
 	.finds-list {
-		display: grid;
-		grid-template-columns: repeat(2, 1fr);
-		gap: 0rem 4rem;
+		column-count: 2;
+		column-gap: 4rem;
 		list-style: none;
 		padding: 0;
 	}
 
 	.finds-list li {
-		font-size: 1.1rem;
+		font-size: 1rem;
 	}
 
 	@media (max-width: 640px) {
 		.finds-list {
 			grid-template-columns: 1fr;
+			column-count: 1;
 		}
 	}
 </style>
