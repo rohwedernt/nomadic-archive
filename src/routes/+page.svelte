@@ -44,7 +44,7 @@
 				</li>
 				<li class="pb-1">
 					– 🔗 The super old Wix site
-					<a href="rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer"
+					<a href="https://rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer"
 						>Wix site</a
 					> which is somehow still live
 				</li>
