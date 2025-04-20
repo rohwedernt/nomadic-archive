@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>The Nomadic Archive</title>
+	<title>The Nomadic Archives</title>
 	<meta name="description" content="The Nomadic Archive" />
 </svelte:head>
 
