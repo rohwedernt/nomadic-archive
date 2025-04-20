@@ -187,11 +187,16 @@
 				>[Live @ Martins Downtown]</a
 			>
 		</li>
+		<li>Intro (The xx) — <em>[ref needed]</em></li>
+		<li>Crystalized (The xx) — <em>[ref needed]</em></li>
+		<li>The Chain (Fleetwood Mac) — <em>[ref needed]</em></li>
 		<li>
 			Sleepyhead (Passion Pit) — <a href="https://youtu.be/hCvWC-QvRIw?feature=shared"
 				>[Live @ Legends (partial)]</a
 			>
 		</li>
+		<li>Voodoo Child (Hendrix) — <em>[ref needed]</em></li>
+		<li>Whole Lotta Love (Led Zeppelin) — <em>[ref needed]</em></li>
 		<li>Tweezer (Phish) — <em>[ref needed]</em></li>
 		<li>46 Days (Phish) — <em>[ref needed]</em></li>
 		<li>Kill Bill (theme) — <em>[ref needed]</em></li>
@@ -201,6 +206,7 @@
 		<li>Paint It, Black (The Rolling Stones) (tease)</li>
 		<li>The Imperial March (Star Wars) (tease)</li>
 		<li>The Force Theme (Star Wars) (tease)</li>
+		<li>The Ocean (Led Zeppelin) (tease)</li>
 		<li>Enter Sandman (Metallica) (tease)</li>
 		<li>Let's Go Get Stoned (Ray Charles) (tease)</li>
 	</ul>
