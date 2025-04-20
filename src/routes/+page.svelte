@@ -88,6 +88,10 @@
 		padding: 2rem;
 		overflow-y: scroll;
 		z-index: 2;
+		
+		@media (max-width: 640px) {
+			height: 35vh;
+		}
 	}
 
 	.paper-content {

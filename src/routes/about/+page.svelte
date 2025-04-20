@@ -5,18 +5,24 @@
 
 <div class="paper-panel">
 	<div class="paper-content">
-		<h1 class="text-2xl mb-4">🎛️ About This Site</h1>
+		<h1 class="mb-4 text-2xl">🎛️ About This Site</h1>
 
 		<p class="pb-2 text-sm">
-			<b>Welcome to the Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly recorded live sets, show-poster masterpieces, and whatever other fragments we thought had been lost to the void.
+			<b>Welcome to the Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly
+			recorded live sets, show-poster masterpieces, and whatever other fragments we thought had been
+			lost to the void.
 		</p>
 		<p class="pb-2 text-sm">
-			Nomadic lived during the magical, chaotic blur known as the early 2010s. Over time, the media trail we left behind scattered across the internet like birdshot — Facebook posts, Instagram accounts we can't log into, maybe a rogue Myspace link, definitely a ReverbNation page (…is that still a thing?), and a Dropbox folder that hasn't been cracked open since the Obama years.
+			Nomadic lived during the magical, chaotic blur known as the early 2010s. Over time, the media
+			trail we left behind scattered across the internet like birdshot — Facebook posts, Instagram
+			accounts we can't log into, maybe a rogue Myspace link, definitely a ReverbNation page (…is
+			that still a thing?), and a Dropbox folder that hasn't been cracked open since the Obama
+			years.
 		</p>
 		<p class="text-sm">
-			This site is our attempt to gather all that chaos into one place — a living, breathing Nomadic vault. A permanent, safely stored, redundantly backed-up home for all of it.
+			This site is our attempt to gather all that chaos into one place — a living, breathing Nomadic
+			vault. A permanent, safely stored, redundantly backed-up home for all of it.
 		</p>
-
 	</div>
 </div>
 
@@ -36,6 +42,10 @@
 		padding: 1.5rem;
 		overflow-y: scroll;
 		z-index: 2;
+
+		@media (max-width: 640px) {
+			height: 35vh;
+		}
 	}
 
 	.paper-content {
