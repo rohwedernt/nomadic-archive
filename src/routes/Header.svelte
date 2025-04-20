@@ -55,6 +55,7 @@
 		display: block;
 		@media (max-width: 480px) {
 			padding-top: 1rem;
+			margin: auto;
 		}
 	}
 

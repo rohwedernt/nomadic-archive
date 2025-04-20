@@ -34,7 +34,7 @@
 		border-top-right-radius: 1rem;
 		box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.15);
 		padding: 1.5rem;
-		overflow-y: auto;
+		overflow-y: scroll;
 		z-index: 2;
 	}
 
