@@ -95,7 +95,7 @@
 	}
 
 	li[aria-current='page']::before {
-		--size: 6px;
+		--size: 10px;
 		content: '';
 		width: 0;
 		height: 0;
@@ -103,7 +103,7 @@
 		top: 0;
 		left: calc(50% - var(--size));
 		border: var(--size) solid transparent;
-		border-top: var(--size) solid var(--color-theme-3);
+		border-top: var(--size) solid rgb(0, 5, 60);
 	}
 
 	nav a {
