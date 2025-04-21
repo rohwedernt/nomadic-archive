@@ -29,6 +29,9 @@
 		<li>
 			Wix site: <a href="https://rohwedernt.wixsite.com/nomadic">rohwedernt.wixsite.com/nomadic</a>
 		</li>
+		<li>
+			Bandsintown: <a href="https://rohwedernt.wixsite.com/nomadic">bandsintown.com/a/367184-nomadic</a>
+		</li>
 	</ul>
 
 	<h2>🖼️ PHOTOS</h2>
