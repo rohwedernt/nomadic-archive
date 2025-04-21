@@ -222,7 +222,7 @@
 	</ul>
 	<h4>Amps</h4>
 	<ul class="list-disc pl-4">
-		<li>Fender Twin Reverb ("The '94 Twin Amp")</li>
+		<li>Fender Twin-Amp (<i>"The '94 Twin"</i>)</li>
 		<li>PRS 2-Channel "H"</li>
 		<li>Mesa Boogie Mark Five 35</li>
 		<li>Fuchs BlackJack 21 MKII</li>
@@ -230,7 +230,27 @@
 	</ul>
 	<h4>Effects</h4>
 	<ul class="list-disc pl-4">
-		<li>(coming soon)</li>
+		<li>J. Rockett The Dude</li>
+		<li>J. Rockett .45 Caliber</li>
+		<li>Paul Cochrane Timmy</li>
+		<li>Diamond J-Drive MkIII</li>
+		<li>Maxon VOP9 Vintage Overdrive Pro</li>
+		<li>Morley Bad Horsie Wah</li>
+		<li>Morley Mini Volume</li>
+		<li>TC Electronic RPT-1 Nova Repeater Digital Delay</li>
+		<li>TC Electronic Flashback 2 Delay</li>
+		<li>TC Electronic Hall Of Fame Mini</li>
+		<li>TC Electronic Sub' n' Up Octaver</li>
+		<li>Maxon PT999 Phaser Tone</li>
+		<li>BBE Mind Bender V1 Chorus</li>
+		<li>Cusack Music Tap-A-Whirl Tremolo</li>
+		<li>MXR M290 Phase 95</li>
+		<li>MXR M133 Micro Amp</li>
+		<li>Vox Satchurator Distortion</li>
+		<li>EHX EHXTortion Overdrive</li>
+		<li>Ernie Ball 6180 VP Jr</li>
+		<li>TC Electronic G-System</li>
+		<li>TC Electronic Polytune Mini</li>
 	</ul>
 	<h3>ELI</h3>
 	<h4>Bass</h4>
@@ -239,11 +259,17 @@
 	</ul>
 	<h4>Amps</h4>
 	<ul class="list-disc pl-4">
-		<li>(coming soon)</li>
+		<li>Ampeg BA-210</li>
 	</ul>
 	<h4>Effects</h4>
 	<ul class="list-disc pl-4">
-		<li>(coming soon)</li>
+		<li>Moog MF-101 Moogerfooger Low Pass Filter</li>
+		<li>Tech 21 Sansamp Bass Driver</li>
+		<li>Pigtronix Envelope Phaser</li>
+		<li>T-Rex The Sweeper Bass Chorus</li>
+		<li>EHX Bass Big Muff</li>
+		<li>EHX Bassballs Twin</li>
+		<li>TC Electronic Polytune</li>
 	</ul>
 	<h3>GREG</h3>
 	<h4>Keyboards</h4>
