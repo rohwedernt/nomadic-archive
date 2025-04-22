@@ -27,7 +27,7 @@
 		</li>
 		<li>SoundCloud: <a href="https://soundcloud.com/nomadic-828">soundcloud.com/nomadic-828</a></li>
 		<li>
-			Wix site: <a href="https://rohwedernt.wixsite.com/nomadic">rohwedernt.wixsite.com/nomadic</a>
+			Wix: <a href="https://rohwedernt.wixsite.com/nomadic">rohwedernt.wixsite.com/nomadic</a>
 		</li>
 		<li>
 			Bandsintown: <a href="https://rohwedernt.wixsite.com/nomadic">bandsintown.com/a/367184-nomadic</a>
@@ -316,6 +316,10 @@
 		color: #111;
 		max-width: 1200px;
 		margin: 0 auto;
+		@media (max-width: 640px) {
+			padding: 0;
+			font-size: 0.75rem;
+		}
 	}
 
 	h1 {
