@@ -264,7 +264,8 @@
 	<h3>ELI</h3>
 	<h4>Bass</h4>
 	<ul class="list-disc pl-4">
-		<li>(coming soon)</li>
+		<li>Spector Performer Deluxe 4</li>
+		<li>Kramer Spector NS2A</li>
 	</ul>
 	<h4>Amps</h4>
 	<ul class="list-disc pl-4">
