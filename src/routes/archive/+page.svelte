@@ -178,7 +178,7 @@
 				>[Live @ Martins Downtown]</a
 			>
 		</li>
-		<li>— Ghosts 'n' Stuff (DeadMau5) — <em>[ref needed]</em></li>
+		<li>— Ghosts 'n' Stuff (Deadmau5) — <em>[ref needed]</em></li>
 		<li>— Kamuy (STS9) — <em>[ref needed]</em></li>
 		<li>— TipleMuy (Mash-up) — <em>[ref needed]</em></li>
 		<li>
