@@ -9,6 +9,7 @@
 	<h1>📂 THE ARCHIVE</h1>
 	<p class="pb-8 text-center">It's all in here. Or it will be. Or maybe it never was.</p>
 	<hr />
+	<p class="inline-code text-xs text-right">v1.8.2</p>
 
 	<h2>📡 LINKS + PAGES</h2>
 	<ul>
@@ -297,14 +298,6 @@
 		<li>PDP Concept Maple Series 5pc</li>
 		<li>Paiste & Zildjian cymbals</li>
 		<li>Vic Firth 5As</li>
-	</ul>
-
-
-	<h2>🛠️ ARCHIVE TODO</h2>
-	<ul>
-		<li>[ ] Find the lost album</li>
-		<li>[ ] Add photo support (somehow)</li>
-		<li>[ ] Upload miscilaneous videos to Nomadic's youtube account</li>
 	</ul>
 </main>
 
