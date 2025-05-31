@@ -13,7 +13,7 @@
 			lost to the void.
 		</p>
 		<p class="pb-2 text-sm">
-			Nomadic lived during the magical, chaotic blur known as the early 2010s. Over time, the media
+			Nomadic lived during a magical chaotic blur in the early 2010s. Over time, the media
 			trail we left behind scattered across the internet like birdshot — Facebook posts, Instagram
 			accounts we can't log into, maybe a rogue Myspace link, definitely a ReverbNation page (…is
 			that still a thing?), and a Dropbox folder that hasn't been cracked open since the Obama
