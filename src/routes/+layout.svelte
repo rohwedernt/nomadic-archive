@@ -14,6 +14,8 @@
 	$: backgroundImage = backgrounds[data.url.pathname];
 </script>
 
+<a href="#main-content" class="visually-hidden skip-link">Skip to main content</a>
+
 <div class="app">
 	{#if backgroundImage}
 		<img class="fullscreen-bg" src={backgroundImage} alt="Background" />
@@ -21,7 +23,7 @@
 
 	<Header />
 
-	<main>
+	<main id="main-content">
 		<slot />
 	</main>
 </div>
@@ -58,5 +60,22 @@
 		@media (max-width: 640px) {
 			object-position: center calc(-15px);
 		}
+	}
+
+	.skip-link:focus {
+		position: absolute;
+		top: 0.5rem;
+		left: 0.5rem;
+		background: #fff;
+		color: #111;
+		padding: 0.5em 1em;
+		border-radius: 0.5em;
+		box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+		z-index: 10000;
+		outline: 2px solid #0f28f3;
+		clip: auto;
+		width: auto;
+		height: auto;
+		white-space: normal;
 	}
 </style>
