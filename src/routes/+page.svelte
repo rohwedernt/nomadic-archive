@@ -3,8 +3,6 @@
 	<meta name="description" content="The Nomadic Archives" />
 </svelte:head>
 
-<!-- <BackgroundImage src={backgroundImage} /> -->
-
 <main>
 	<div class="paper-panel">
 		<div class="paper-content">
