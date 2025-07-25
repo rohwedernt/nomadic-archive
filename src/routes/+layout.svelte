@@ -11,14 +11,20 @@
 		'/about': aboutImage
 	};
 
+	const backgroundAlts: Record<string, string> = {
+		'/': 'Background image of Eli performing',
+		'/about': 'Background collage of the band and friends'
+	};
+
 	$: backgroundImage = backgrounds[data.url.pathname];
+	$: backgroundAlt = backgroundAlts[data.url.pathname] || 'Background';
 </script>
 
 <a href="#main-content" class="visually-hidden skip-link">Skip to main content</a>
 
 <div class="app">
 	{#if backgroundImage}
-		<img class="fullscreen-bg" src={backgroundImage} alt="Background" />
+		<img class="fullscreen-bg" src={backgroundImage} alt={backgroundAlt} />
 	{/if}
 
 	<Header />
