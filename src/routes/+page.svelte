@@ -106,7 +106,7 @@
 	}
 
 	.finds-list li {
-		font-size: 1rem;
+		font-size: 0.9rem;
 	}
 
 	@media (max-width: 640px) {
