@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '../app.css';
 	import Header from './Header.svelte';
-	import homeImage from '$lib/images/background-eli.png';
+	import homeImage from '$lib/images/background-eli-mozjpeg.jpg';
 	import aboutImage from '$lib/images/background-all.jpg';
 
 	export let data: { url: URL };
