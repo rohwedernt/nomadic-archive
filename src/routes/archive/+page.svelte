@@ -37,7 +37,9 @@
 
 	<h2>🖼️ PHOTOS</h2>
 	<ul>
-		<li>(coming soon)</li>
+		<a href="https://flic.kr/go/3gvph1"></a>
+		<li>Visit the <a href="https://flic.kr/go/3gvph1">PHOTO GALLERY</a> hosted on Flickr</li>
+		<li class="text-xs pt-2"><i><b>Please add your Nomadic photos!</b> Anyone can upload photos to the gallery with a free Flickr account</i></li>
 	</ul>
 
 	<h2>📹 VIDEOS</h2>
