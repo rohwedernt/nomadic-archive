@@ -9,7 +9,7 @@
 	<h1>📂 THE ARCHIVE</h1>
 	<p class="pb-8 text-center">It's all in here. Or it will be. Or maybe it never was.</p>
 	<hr />
-	<p class="inline-code text-xs text-right">v1.8.2</p>
+	<p class="inline-code text-right text-xs">v1.8.2</p>
 
 	<h2>📡 LINKS + PAGES</h2>
 	<ul>
@@ -31,65 +31,89 @@
 			Wix: <a href="https://rohwedernt.wixsite.com/nomadic">rohwedernt.wixsite.com/nomadic</a>
 		</li>
 		<li>
-			Bandsintown: <a href="https://rohwedernt.wixsite.com/nomadic">bandsintown.com/a/367184-nomadic</a>
+			Bandsintown: <a href="https://rohwedernt.wixsite.com/nomadic"
+				>bandsintown.com/a/367184-nomadic</a
+			>
 		</li>
 	</ul>
 
 	<h2>🖼️ PHOTOS</h2>
 	<ul>
-		<a href="https://flic.kr/go/3gvph1"></a>
-		<li>Visit the <a href="https://flic.kr/go/3gvph1">PHOTO GALLERY</a> hosted on Flickr</li>
-		<li class="text-xs pt-2"><i><b>Please add your Nomadic photos!</b> Anyone can upload photos to the gallery with a free Flickr account</i></li>
+		<li>Visit the <a target="_blank" rel="noopener noreferrer" href="https://flic.kr/go/3gvph1">PHOTO GALLERY</a> hosted on Flickr</li>
+		<li class="pt-2 text-xs">
+			<i
+				><b>Please add your Nomadic photos!</b> Anyone can upload photos to the gallery with a free Flickr
+				account</i
+			>
+		</li>
 	</ul>
 
 	<h2>📹 VIDEOS</h2>
 	<ul>
 		<li>
-			—  (12/4/15) <a href="https://youtu.be/2r4FjsM7Tmc?feature=shared">Queen Anne's Revenge</a> Live @ Boone Saloon
+			— (12/4/15) <a href="https://youtu.be/2r4FjsM7Tmc?feature=shared">Queen Anne's Revenge</a> Live
+			@ Boone Saloon
 		</li>
 		<li>
-			— (12/4/15) <a href="https://youtu.be/MejDBl_aT9s?feature=shared">Speak Like Me</a> Live @ Boone Saloon
+			— (12/4/15) <a href="https://youtu.be/MejDBl_aT9s?feature=shared">Speak Like Me</a> Live @ Boone
+			Saloon
 		</li>
 		<li>
-			— (12/4/15) <a href="https://youtu.be/HsSEEKEsAe0?feature=shared">Daft Mother</a> Live @ Boone Saloon
+			— (12/4/15) <a href="https://youtu.be/HsSEEKEsAe0?feature=shared">Daft Mother</a> Live @ Boone
+			Saloon
 		</li>
 		<li>
-			— (12/4/15) <a href="https://youtu.be/9-zu2aJ6urs?feature=shared">Victorian Steam Punk</a> Live @ Boone Saloon
+			— (12/4/15) <a href="https://youtu.be/9-zu2aJ6urs?feature=shared">Victorian Steam Punk</a> Live
+			@ Boone Saloon
 		</li>
 		<li>
-			— (12/4/15) <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">Fight Right</a> Live @ Boone Saloon
+			— (12/4/15) <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">Fight Right</a> Live @ Boone
+			Saloon
 		</li>
 
 		<li>
-			— (4/30/15) <a href="https://youtu.be/SJ-65jw5E3A?feature=shared">Daft Mother</a> Live @ Boone in Blossom
+			— (4/30/15) <a href="https://youtu.be/SJ-65jw5E3A?feature=shared">Daft Mother</a> Live @ Boone
+			in Blossom
 		</li>
 		<li>
-			— (12/6/14) <a href="https://youtu.be/Tqq1KLjA51Y?si=Usli4zgWprcJGM39">Full Show</a> Live @ New Mountain
+			— (12/6/14) <a href="https://youtu.be/Tqq1KLjA51Y?si=Usli4zgWprcJGM39">Full Show</a> Live @ New
+			Mountain
 		</li>
 		<li>
-			— (5/24/14) <a href="https://youtu.be/cggYy6tAwKM?feature=shared">Full Show</a> Live @ Asheville Music Hall
+			— (5/24/14) <a href="https://youtu.be/cggYy6tAwKM?feature=shared">Full Show</a> Live @ Asheville
+			Music Hall
 		</li>
 		<li>
-			— (4/26/14) <a href="https://www.youtube.com/watch?v=ZcaaW0pHme0">Daft Mother</a> Live @ Timo's House
+			— (4/26/14) <a href="https://www.youtube.com/watch?v=ZcaaW0pHme0">Daft Mother</a> Live @ Timo's
+			House
 		</li>
-		<li>— (1/10/14) <a href="https://youtu.be/a-a6YFkAs_o?feature=shared">Supra Luna</a> (2014 Promo Video)</li>
+		<li>
+			— (1/10/14) <a href="https://youtu.be/a-a6YFkAs_o?feature=shared">Supra Luna</a> (2014 Promo Video)
+		</li>
 		<li>
 			— (Unknown) <a href="https://youtu.be/V9bpBRMHet8">Queen Anne's Revenge</a> Live @ Boone Saloon
 		</li>
 		<li>
-			— (10/17/13) <a href="https://youtu.be/uiNfVGVajFo">The Mantras ft. Nate Rohweder</a> Live @ Boone Saloon
+			— (10/17/13) <a href="https://youtu.be/uiNfVGVajFo">The Mantras ft. Nate Rohweder</a> Live @ Boone
+			Saloon
 		</li>
 		<li>
-			— (12/8/12) <a href="https://youtu.be/lqJbZSQ8yqg?feature=shared">Cable Jubilee</a> Live @ The One Stop
+			— (12/8/12) <a href="https://youtu.be/lqJbZSQ8yqg?feature=shared">Cable Jubilee</a> Live @ The
+			One Stop
 		</li>
-		<li>— (1/22/11) <a href="https://youtu.be/Jznac7Huapg?feature=shared">Watch</a> Live @ Legends</li>
-		<li>— (1/22/11) <a href="https://youtu.be/hCvWC-QvRIw?feature=shared">Sleepyhead</a> Live @ Legends</li>
+		<li>
+			— (1/22/11) <a href="https://youtu.be/Jznac7Huapg?feature=shared">Watch</a> Live @ Legends
+		</li>
+		<li>
+			— (1/22/11) <a href="https://youtu.be/hCvWC-QvRIw?feature=shared">Sleepyhead</a> Live @ Legends
+		</li>
 	</ul>
 
 	<h2>🎵 SONG CATALOG</h2>
 	<ul>
 		<li>
-			— REM — <a href="https://www.reverbnation.com/nomadicband/song/15929144-r-e-m">[EP - Track 1]</a
+			— REM — <a href="https://www.reverbnation.com/nomadicband/song/15929144-r-e-m"
+				>[EP - Track 1]</a
 			>
 		</li>
 		<li>
@@ -115,7 +139,8 @@
 			>
 		</li>
 		<li>
-			— Daft Mother — <a href="https://youtu.be/ZcaaW0pHme0?feature=shared">[Live @ Timo's House]</a>
+			— Daft Mother — <a href="https://youtu.be/ZcaaW0pHme0?feature=shared">[Live @ Timo's House]</a
+			>
 		</li>
 		<li>
 			— Victorian Steampunk — <a href="https://youtu.be/9-zu2aJ6urs?feature=shared"
@@ -123,11 +148,13 @@
 			>
 		</li>
 		<li>
-			— Speak Like Me — <a href="https://youtu.be/MejDBl_aT9s?feature=shared">[Live @ Boone Saloon]</a
+			— Speak Like Me — <a href="https://youtu.be/MejDBl_aT9s?feature=shared"
+				>[Live @ Boone Saloon]</a
 			>
 		</li>
 		<li>
-			— Fight Right — <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">[Live @ Boone Saloon]</a>
+			— Fight Right — <a href="https://youtu.be/q-w5-CvKWjk?feature=shared">[Live @ Boone Saloon]</a
+			>
 		</li>
 		<li>
 			— Cable Jubilee — <a href="https://youtu.be/lqJbZSQ8yqg?feature=shared"
