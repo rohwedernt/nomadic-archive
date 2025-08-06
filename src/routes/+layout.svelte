@@ -12,8 +12,8 @@
 	};
 
 	const backgroundAlts: Record<string, string> = {
-		'/': 'Background image of Eli performing',
-		'/about': 'Background collage of the band and friends'
+		'/': 'Background image (Eli)',
+		'/about': 'Background image (band)'
 	};
 
 	$: backgroundImage = backgrounds[data.url.pathname];
