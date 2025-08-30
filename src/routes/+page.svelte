@@ -36,7 +36,7 @@
 					>)
 				</li>
 				<li class="pb-1">
-					– 🔗 The super old 
+					– 🔗 The super old
 					<a href="https://rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer"
 						>Wix site</a
 					> which is somehow still live

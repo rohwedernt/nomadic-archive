@@ -76,7 +76,7 @@
 		color: #111;
 		padding: 0.5em 1em;
 		border-radius: 0.5em;
-		box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 		z-index: 10000;
 		outline: 2px solid #0f28f3;
 		clip: auto;

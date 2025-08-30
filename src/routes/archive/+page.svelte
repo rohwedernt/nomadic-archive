@@ -13,27 +13,71 @@
 
 	<h2>📡 LINKS + PAGES</h2>
 	<ul>
-		<li>Youtube: <a href="https://www.youtube.com/@booknomadic" target="_blank" rel="noopener noreferrer">@booknomadic</a></li>
-		<li>Facebook: <a href="https://www.facebook.com/Nomadicrage" target="_blank" rel="noopener noreferrer">facebook.com/nomadicrage</a></li>
-		<li>Instagram: <a href="https://www.instagram.com/nomadicrage" target="_blank" rel="noopener noreferrer">@nomadicrage</a></li>
 		<li>
-			Live Music Archive: <a href="https://archive.org/details/Nomadic" target="_blank" rel="noopener noreferrer">archive.org/details/nomadic</a>
+			Youtube: <a
+				href="https://www.youtube.com/@booknomadic"
+				target="_blank"
+				rel="noopener noreferrer">@booknomadic</a
+			>
 		</li>
 		<li>
-			ReverbNation: <a href="https://www.reverbnation.com/nomadicband" target="_blank" rel="noopener noreferrer">reverbnation.com/nomadicband</a>
+			Facebook: <a
+				href="https://www.facebook.com/Nomadicrage"
+				target="_blank"
+				rel="noopener noreferrer">facebook.com/nomadicrage</a
+			>
 		</li>
-		<li>SoundCloud: <a href="https://soundcloud.com/nomadic-828" target="_blank" rel="noopener noreferrer">soundcloud.com/nomadic-828</a></li>
 		<li>
-			Wix: <a href="https://rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer">rohwedernt.wixsite.com/nomadic</a>
+			Instagram: <a
+				href="https://www.instagram.com/nomadicrage"
+				target="_blank"
+				rel="noopener noreferrer">@nomadicrage</a
+			>
 		</li>
 		<li>
-			Bandsintown: <a href="https://rohwedernt.wixsite.com/nomadic" target="_blank" rel="noopener noreferrer">bandsintown.com/a/367184-nomadic</a>
+			Live Music Archive: <a
+				href="https://archive.org/details/Nomadic"
+				target="_blank"
+				rel="noopener noreferrer">archive.org/details/nomadic</a
+			>
+		</li>
+		<li>
+			ReverbNation: <a
+				href="https://www.reverbnation.com/nomadicband"
+				target="_blank"
+				rel="noopener noreferrer">reverbnation.com/nomadicband</a
+			>
+		</li>
+		<li>
+			SoundCloud: <a
+				href="https://soundcloud.com/nomadic-828"
+				target="_blank"
+				rel="noopener noreferrer">soundcloud.com/nomadic-828</a
+			>
+		</li>
+		<li>
+			Wix: <a
+				href="https://rohwedernt.wixsite.com/nomadic"
+				target="_blank"
+				rel="noopener noreferrer">rohwedernt.wixsite.com/nomadic</a
+			>
+		</li>
+		<li>
+			Bandsintown: <a
+				href="https://rohwedernt.wixsite.com/nomadic"
+				target="_blank"
+				rel="noopener noreferrer">bandsintown.com/a/367184-nomadic</a
+			>
 		</li>
 	</ul>
 
 	<h2>🖼️ PHOTOS</h2>
 	<ul>
-		<li>Visit the <a target="_blank" rel="noopener noreferrer" href="https://flic.kr/go/3gvph1">PHOTO GALLERY</a> hosted on Flickr</li>
+		<li>
+			Visit the <a target="_blank" rel="noopener noreferrer" href="https://flic.kr/go/3gvph1"
+				>PHOTO GALLERY</a
+			> hosted on Flickr
+		</li>
 		<li class="pt-2 text-xs">
 			<i
 				><b>Please add your Nomadic photos!</b> Anyone can upload photos to the gallery with a free Flickr

@@ -13,11 +13,10 @@
 			lost to the void.
 		</p>
 		<p class="pb-2 text-sm">
-			Nomadic lived during a magical chaotic blur in the early 2010s. Over time, the media
-			trail we left behind scattered across the internet like birdshot — Facebook posts, Instagram
-			accounts we can't log into, maybe a rogue Myspace link, definitely a ReverbNation page (…is
-			that still a thing?), and a Dropbox folder that hasn't been cracked open since the Obama
-			years.
+			Nomadic lived during a magical chaotic blur in the early 2010s. Over time, the media trail we
+			left behind scattered across the internet like birdshot — Facebook posts, Instagram accounts
+			we can't log into, maybe a rogue Myspace link, definitely a ReverbNation page (…is that still
+			a thing?), and a Dropbox folder that hasn't been cracked open since the Obama years.
 		</p>
 		<p class="text-sm">
 			This site is our attempt to gather all that chaos into one place — a living, breathing Nomadic
