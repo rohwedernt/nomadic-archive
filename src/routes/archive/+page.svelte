@@ -424,13 +424,7 @@
 		inset: 0;
 		z-index: -1;
 		pointer-events: none;
-		background:
-			radial-gradient(
-				50% 50% at 50% 50%,
-				rgba(255, 255, 255, 0.75) 0%,
-				rgba(255, 255, 255, 0) 100%
-			),
-			linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
+		background: #fafafa;
 		background-size: 100vw 100vh;
 		background-repeat: no-repeat;
 	}
