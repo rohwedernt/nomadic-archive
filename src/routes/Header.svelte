@@ -7,9 +7,6 @@
 
 <header>
 	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
 		<ul>
 			<li aria-current={page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
@@ -21,9 +18,6 @@
 				<a href="/archive">Archive</a>
 			</li>
 		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
 	</nav>
 
 	<!-- Responsive title image -->
@@ -60,20 +54,10 @@
 	}
 
 	nav {
-		display: flex;
-		justify-content: center;
-		--background: rgba(242, 239, 230, 0.93);
+		background: rgba(242, 239, 230, 0.93);
+		clip-path: polygon(0% 0%, 100% 0%, calc(100% - 2em) 100%, 2em 100%);
+		padding: 0 2.5em;
 		z-index: 999;
-	}
-
-	svg {
-		width: 2em;
-		height: 3em;
-		display: block;
-	}
-
-	path {
-		fill: var(--background);
 	}
 
 	ul {
@@ -85,8 +69,6 @@
 		justify-content: center;
 		align-items: center;
 		list-style: none;
-		background: var(--background);
-		background-size: contain;
 	}
 
 	li {

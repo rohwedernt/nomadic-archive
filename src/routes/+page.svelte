@@ -76,16 +76,12 @@
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		height: 33vh;
+		max-height: 55vh;
 		background: rgb(248, 242, 224);
 		border-top: 2px solid #9a8060;
 		padding: 1.25rem 2rem;
 		overflow-y: scroll;
 		z-index: 2;
-
-		@media (max-width: 640px) {
-			height: 40vh;
-		}
 	}
 
 	.paper-content {
