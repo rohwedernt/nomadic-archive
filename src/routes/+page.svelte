@@ -76,26 +76,33 @@
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		height: 30vh;
-		background: rgba(255, 255, 255, 0.75);
-		backdrop-filter: blur(8px);
-		-webkit-backdrop-filter: blur(8px);
-		border-top-left-radius: 1rem;
-		border-top-right-radius: 1rem;
-		box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.15);
-		padding: 2rem;
+		height: 33vh;
+		background: rgb(248, 242, 224);
+		border-top: 2px solid #9a8060;
+		padding: 1.25rem 2rem;
 		overflow-y: scroll;
 		z-index: 2;
 
 		@media (max-width: 640px) {
-			height: 35vh;
+			height: 40vh;
 		}
 	}
 
 	.paper-content {
 		max-width: 90vw;
 		margin: 0 auto;
-		color: #111;
+		color: #1a1a1a;
+		font-family: 'Courier New', Courier, monospace;
+	}
+
+	.paper-content h1 {
+		font-size: 0.85rem;
+		font-weight: 700;
+		letter-spacing: 0.2em;
+		text-transform: uppercase;
+		border-bottom: 1px solid #b5a080;
+		padding-bottom: 0.4rem;
+		margin-bottom: 0.75rem;
 	}
 
 	.finds-list {
@@ -106,7 +113,7 @@
 	}
 
 	.finds-list li {
-		font-size: 0.9rem;
+		font-size: 0.88rem;
 	}
 
 	@media (max-width: 640px) {

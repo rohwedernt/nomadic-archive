@@ -391,12 +391,23 @@
 
 	h2 {
 		margin-top: 2rem;
-		font-size: 1.2rem;
+		font-size: 1rem;
+		letter-spacing: 0.12em;
+		border-bottom: 1px solid #aaa;
+		padding-bottom: 0.3rem;
 	}
 
 	h3 {
 		margin-top: 1rem;
-		font-size: 1.2rem;
+		font-size: 0.95rem;
+		letter-spacing: 0.08em;
+	}
+
+	h4 {
+		margin-top: 0.75rem;
+		font-size: 0.9rem;
+		letter-spacing: 0.06em;
+		font-style: italic;
 	}
 
 	a {

@@ -60,8 +60,9 @@
 		height: 100vh;
 		z-index: -1;
 		object-fit: cover;
-		object-position: right top;
+		object-position: right 25%;
 		pointer-events: none;
+		filter: sepia(40%) saturate(50%) brightness(0.68);
 
 		@media (max-width: 640px) {
 			object-position: center calc(-15px);

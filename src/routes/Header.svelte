@@ -62,7 +62,7 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
+		--background: rgba(242, 239, 230, 0.93);
 		z-index: 999;
 	}
 
@@ -103,7 +103,7 @@
 		top: 0;
 		left: calc(50% - var(--size));
 		border: var(--size) solid transparent;
-		border-top: var(--size) solid rgb(0, 5, 60);
+		border-top: var(--size) solid #5a3010;
 	}
 
 	nav a {
@@ -121,6 +121,6 @@
 	}
 
 	a:hover {
-		color: #ffbd59;
+		color: #5a3010;
 	}
 </style>
