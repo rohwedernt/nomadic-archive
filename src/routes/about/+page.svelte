@@ -8,9 +8,7 @@
 		<h1 class="mb-2 text-2xl">🎛️ About This Site</h1>
 
 		<p class="pb-2 text-sm">
-			<b>Welcome to The Nomadic Archives</b> — a dusty digital attic packed with photos, videos, poorly
-			recorded live sets, show-poster masterpieces, and whatever other fragments we thought had been
-			lost to the void.
+			<b>Welcome to The Nomadic Archives</b> — a digital attic packed with photos, videos, live audio, show-poster masterpieces, and whatever other fragments the haven't been lost to the void.
 		</p>
 		<p class="pb-2 text-sm">
 			Nomadic lived during a magical chaotic blur in the early 2010s. Over time, the media trail we
