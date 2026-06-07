@@ -1,10 +1,9 @@
 <script lang="ts">
 	import '../app.css';
 	import Header from './Header.svelte';
+	import { page } from '$app/state';
 	import homeImage from '$lib/images/background-eli-mozjpeg.jpg';
 	import aboutImage from '$lib/images/background-all.jpg';
-
-	export let data: { url: URL };
 
 	const backgrounds: Record<string, string> = {
 		'/': homeImage,
@@ -15,16 +14,13 @@
 		'/': 'Background image (Eli)',
 		'/about': 'Background image (band)'
 	};
-
-	$: backgroundImage = backgrounds[data.url.pathname];
-	$: backgroundAlt = backgroundAlts[data.url.pathname] || 'Background';
 </script>
 
 <a href="#main-content" class="visually-hidden skip-link">Skip to main content</a>
 
 <div class="app">
-	{#if backgroundImage}
-		<img class="fullscreen-bg" src={backgroundImage} alt={backgroundAlt} />
+	{#if backgrounds[page.url.pathname]}
+		<img class="fullscreen-bg" src={backgrounds[page.url.pathname]} alt={backgroundAlts[page.url.pathname] ?? 'Background'} />
 	{/if}
 
 	<Header />
