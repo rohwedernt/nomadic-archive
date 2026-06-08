@@ -275,6 +275,10 @@
 		<li>— 46 Days (Phish) — <em>[ref needed]</em></li>
 		<li>— Kill Bill (theme) — <em>[ref needed]</em></li>
 		<li>— Heart of the City (Jay-Z) — <em>[ref needed]</em></li>
+		<li>— Hella Good (No Doubt) — <a
+				href="https://www.youtube.com/watch?v=Tqq1KLjA51Y&t=1767s"
+				>[Live @ New Mountain]</a
+			></li>
 		<li>— The Office (theme) — <em>[ref needed]</em></li>
 		<li>— If You Want Me To Stay (Sly and the Family Stone) (tease)</li>
 		<li>— Paint It, Black (The Rolling Stones) (tease)</li>
